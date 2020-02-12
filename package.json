@@ -1,0 +1,34 @@
+{
+  "name": "bright-test",
+  "version": "1.0.0",
+  "description": "Interview Problem 1",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^13.7.1",
+    "@types/react": "^16.9.19",
+    "@types/reactstrap": "^8.4.1",
+    "bootstrap": "^4.4.1",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "reactstrap": "^8.4.1",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcannon91/bhp-interview1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcannon91/bhp-interview1/issues"
+  },
+  "homepage": "https://github.com/tcannon91/bhp-interview1#readme"
+}
